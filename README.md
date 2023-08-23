@@ -50,19 +50,9 @@ Victim machine command:
 
 Attacking machine command:
 
-1                  `python -m pyftpdlib -w`
+`python -m pyftpdlib -w`
 
 Victim machine command:
-
-1
-
-2
-
-3
-
-4
-
-5
 
 `ftp`
 
